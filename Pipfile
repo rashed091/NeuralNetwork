@@ -20,6 +20,7 @@ tensorboardx = "*"
 tqdm = "*"
 spacy = "*"
 featuretools = "*"
+torchtext = "*"
 
 [dev-packages]
 
