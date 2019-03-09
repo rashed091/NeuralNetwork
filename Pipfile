@@ -21,6 +21,10 @@ tqdm = "*"
 spacy = "*"
 featuretools = "*"
 torchtext = "*"
+eli5 = "*"
+textblob = "*"
+gensim = "*"
+bokeh = "*"
 
 [dev-packages]
 
