@@ -25,6 +25,12 @@ eli5 = "*"
 textblob = "*"
 gensim = "*"
 bokeh = "*"
+altair = "*"
+vega-datasets = "*"
+notebook = "*"
+vega = "*"
+keras = "*"
+tensorflow = "*"
 
 [dev-packages]
 

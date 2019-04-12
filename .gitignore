@@ -5,3 +5,4 @@ data/
 names.csv
 .data/
 DeepNLP/Data/
+DeepNLP/.vector_cache/
