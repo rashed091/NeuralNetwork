@@ -6,3 +6,4 @@ names.csv
 .data/
 DeepNLP/Data/
 DeepNLP/.vector_cache/
+d2l-en/
