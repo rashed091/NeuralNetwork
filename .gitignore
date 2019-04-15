@@ -1,5 +1,5 @@
 data/
-.ipynb_checkpoints
+.ipynb_checkpoints/
 .vscode
 .idea
 names.csv
@@ -7,3 +7,5 @@ names.csv
 DeepNLP/Data/
 DeepNLP/.vector_cache/
 d2l-en/
+Computer Vision/
+Linear Algebra/
