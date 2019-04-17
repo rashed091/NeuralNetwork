@@ -1,12 +1,9 @@
-data/
-.data/
 .ipynb_checkpoints/
 .vscode
 .idea
-names.csv
+data/
 .data/
-DeepNLP/Data/
-DeepNLP/.vector_cache/
-d2l-en/
-Computer Vision/
-Linear Algebra/
+NaturalLanguageProcessing/data/
+NaturalLanguageProcessing/.data/
+NaturalLanguageProcessing/.vector_cache/
+Experiments/
