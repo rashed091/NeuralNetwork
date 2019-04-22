@@ -15,7 +15,6 @@ scikit-learn = "*"
 graphviz = "*"
 visdom = "*"
 scikit-image = "*"
-allennlp = "*"
 tensorboardx = "*"
 tqdm = "*"
 spacy = "*"
@@ -31,6 +30,9 @@ notebook = "*"
 vega = "*"
 keras = "*"
 tensorflow = "*"
+pymc3 = "*"
+arviz = "*"
+flair = "*"
 
 [dev-packages]
 
