@@ -33,6 +33,10 @@ tensorflow = "*"
 pymc3 = "*"
 arviz = "*"
 flair = "*"
+selectolax = "*"
+bs4 = "*"
+lxml = "*"
+dtreeviz = "*"
 
 [dev-packages]
 
