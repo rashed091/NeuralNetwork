@@ -4,10 +4,4 @@
 .DS_Store
 data/
 .data/
-NaturalLanguageProcessing/data/
-NaturalLanguageProcessing/.data/
-NaturalLanguageProcessing/.vector_cache/
 Experiments/
-Machine Learning/
-Convex Optimization/
-Learning-ML-master/
